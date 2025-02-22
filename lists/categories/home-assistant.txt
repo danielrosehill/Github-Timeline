@@ -1,0 +1,9 @@
+Awesome-Israeli-Jewish-Home-Assistant
+HA-Shabbat-Dashboard-0125
+Home-Assistant-Dashboards-General-
+Home-Assistant-Israel-Dashboards
+Home-Assistant-Shabbat-Yom-Tom
+Home-Assistant-Smoke-Alarm-Config
+Home-Assistant-YAML-Snippets
+Home-Assistant-YomTov-Shabbat-0125
+Home-Assistant-snippets

@@ -1,0 +1,7 @@
+Awesome-STT-Projects
+Awesome-STT-Tools
+Deepgram-STT-Linux-App
+PDF-Extract-And-TTS
+Personal-STT-Benchmarking
+Voice-Assistant-Agent-Platforms
+Voice-LLM-App-Notes

@@ -1,9 +1,9 @@
 [
   {
-    "name": "Github-Timeline",
-    "pretty_name": "Github Timeline",
-    "description": "A reverse chronological timeline of repositories that I have created on Github with links to the individual projects",
-    "url": "https://github.com/danielrosehill/Github-Timeline",
+    "name": "Github-Master-Index",
+    "pretty_name": "Github Master Index",
+    "description": "A repository that indexes my Github projects",
+    "url": "https://github.com/danielrosehill/Github-Master-Index",
     "is_fork": false,
     "created_at": "2025-02-22T18:49:30Z"
   },
@@ -1434,7 +1434,7 @@
   {
     "name": "danielrosehill",
     "pretty_name": "Danielrosehill",
-    "description": "Github homepage, V2",
+    "description": "Github homepage text",
     "url": "https://github.com/danielrosehill/danielrosehill",
     "is_fork": false,
     "created_at": "2024-08-11T02:00:11Z"

@@ -1,0 +1,11 @@
+AI-Assistant-Template
+AI-Generated-Project-Starters
+Cline-Roo-Code-Repo-Template
+Document-Templates
+LLM-Workspace-Scaffolder
+LLM-Workspace-Scaffolding
+Markdown-Templates-For-LLM-Work
+My-Scaffolding-Templates
+Personal-AI-Agent-Development-Template
+Scaffolding-Scripts
+Task-Management-App-Prompt

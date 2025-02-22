@@ -1,7 +1,3 @@
-# Daniel Rosehill Github Repository Index
-
-![Banner](banners/index.png)
-
 # GitHub Repository Timeline
 
 # 2025
@@ -1832,40 +1828,3 @@ My modifications for Ubuntu Linux. Publicly accessible so that I can access thes
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/UbuntuModifications)
 
-
-
-*Last updated: 2025-02-22 23:11:42*
-
-This is an automatically generated index of my public GitHub repositories.
-
-## Quick Links
-
-[![View Timeline](https://img.shields.io/badge/View-Timeline-blue?style=for-the-badge)](timeline.md)
-
-### Data Exports
-- [Repository Index (JSON)](data/exports/repo-index.json)
-- [Repository Index (CSV)](data/exports/repo-index.csv)
-
-## Repository Categories
-
-- [Assistants](sections/assistants.md)
-- [Backups](sections/backups.md)
-- [Context Rag](sections/context-rag.md)
-- [Data](sections/data.md)
-- [Documentation](sections/documentation.md)
-- [Emissions](sections/emissions.md)
-- [Experiments](sections/experiments.md)
-- [Forks](sections/forks.md)
-- [Home Assistant](sections/home-assistant.md)
-- [Ideas](sections/ideas.md)
-- [Indexes](sections/indexes.md)
-- [Israel](sections/israel.md)
-- [Linux](sections/linux.md)
-- [Lists](sections/lists.md)
-- [Llm](sections/llm.md)
-- [Obsidian](sections/obsidian.md)
-- [Opensuse](sections/opensuse.md)
-- [Prompt Libraries](sections/prompt-libraries.md)
-- [Templates](sections/templates.md)
-- [Utilities](sections/utilities.md)
-- [Voice](sections/voice.md)

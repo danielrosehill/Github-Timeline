@@ -1,0 +1,17 @@
+Awesome-Israeli-Jewish-Home-Assistant
+HA-Shabbat-Dashboard-0125
+Home-Assistant-Israel-Dashboards
+Home-Assistant-Shabbat-Yom-Tom
+Home-Assistant-YomTov-Shabbat-0125
+Israel-GeoInsights
+Israel-News-Monitor
+Israel-Preparedness-Guidelines-AI-Assistant
+Israel-Rocket-Shelter-Guidelines
+Israel-To-ROW-Salary-Converter-V2
+Israeli-Google-Drive-Accounting-Doc-Router
+Jerusalem-Public-Shelters
+Jewish-Sabbaths-Holidays
+Public-Shelter-Lists-Israel
+awesome-opensource-israel
+backup_internet_israel
+pikud-haoref-api

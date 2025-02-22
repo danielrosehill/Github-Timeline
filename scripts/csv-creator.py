@@ -83,12 +83,14 @@ def generate_timeline_csv():
 
     return timeline_data
 
-def save_timeline_csv(timeline_data, output_file="repo-index.csv"):
+def save_timeline_csv(timeline_data, output_file="data/exports/repo-index.csv"):
     """Save the timeline data to a CSV file"""
     if timeline_data:
         # Define the field names for the CSV
         fieldnames = ["name", "pretty_name", "description", "url", "is_fork", "created_at"]
         
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()  # Write the header row

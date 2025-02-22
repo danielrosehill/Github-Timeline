@@ -83,9 +83,11 @@ def generate_timeline_json():
 
     return timeline_data
 
-def save_timeline_json(timeline_data, output_file="repo-index.json"):
+def save_timeline_json(timeline_data, output_file="data/exports/repo-index.json"):
     """Save the timeline data to a JSON file"""
     if timeline_data:
+        # Ensure the directory exists
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(timeline_data, f, indent=2, ensure_ascii=False)
         print(f"Timeline data saved to {output_file}")

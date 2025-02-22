@@ -1,0 +1,5 @@
+Awesome-Obsidian-AI-Tools
+LLM-Obsidian-Vault-Backup-Utility
+Obisidian-For-LLM-Capture
+Obisidian-Prompt-Output-Saver-Local-Only
+Obsidian-Prompt-Output-Saver
