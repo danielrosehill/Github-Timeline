@@ -20,14 +20,16 @@ def generate_project_type_badges():
         row = []
         # First column
         display_name = project_types[i]
-        badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](lists/types/{display_name.lower().replace(" ", "-")}.txt)'
+        file_name = display_name.lower().replace(" ", "-")
+        badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](sections/{file_name}.md)'
         row.append(badge)
         
         # Second column
         second_idx = i + rows
         if second_idx < len(project_types):
             display_name = project_types[second_idx]
-            badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](lists/types/{display_name.lower().replace(" ", "-")}.txt)'
+            file_name = display_name.lower().replace(" ", "-")
+            badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](sections/{file_name}.md)'
             row.append(badge)
         else:
             row.append('')

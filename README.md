@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-02-23 17:25:06*
+*Last updated: 2025-02-23 17:28:29*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -20,11 +20,11 @@ Browse repositories by their type:
 
 | Type | Type |
 |----------|----------|
-| [![Created CLIs](https://img.shields.io/badge/Created_CLIs-0D47A1?style=for-the-badge&logo=github)](lists/types/created-clis.txt) | [![Ideas Indexes](https://img.shields.io/badge/Ideas_Indexes-0D47A1?style=for-the-badge&logo=github)](lists/types/ideas-indexes.txt) |
-| [![Created GUIs](https://img.shields.io/badge/Created_GUIs-0D47A1?style=for-the-badge&logo=github)](lists/types/created-guis.txt) | [![Lists](https://img.shields.io/badge/Lists-0D47A1?style=for-the-badge&logo=github)](lists/types/lists.txt) |
-| [![Documentation](https://img.shields.io/badge/Documentation-0D47A1?style=for-the-badge&logo=github)](lists/types/documentation.txt) | [![Templates](https://img.shields.io/badge/Templates-0D47A1?style=for-the-badge&logo=github)](lists/types/templates.txt) |
-| [![Experiments](https://img.shields.io/badge/Experiments-0D47A1?style=for-the-badge&logo=github)](lists/types/experiments.txt) | [![Streamlit Apps](https://img.shields.io/badge/Streamlit_Apps-0D47A1?style=for-the-badge&logo=github)](lists/types/streamlit-apps.txt) |
-| [![Forks](https://img.shields.io/badge/Forks-0D47A1?style=for-the-badge&logo=github)](lists/types/forks.txt) | [![Data](https://img.shields.io/badge/Data-0D47A1?style=for-the-badge&logo=github)](lists/types/data.txt) |
+| [![Created CLIs](https://img.shields.io/badge/Created_CLIs-0D47A1?style=for-the-badge&logo=github)](sections/created-clis.md) | [![Ideas Indexes](https://img.shields.io/badge/Ideas_Indexes-0D47A1?style=for-the-badge&logo=github)](sections/ideas-indexes.md) |
+| [![Created GUIs](https://img.shields.io/badge/Created_GUIs-0D47A1?style=for-the-badge&logo=github)](sections/created-guis.md) | [![Lists](https://img.shields.io/badge/Lists-0D47A1?style=for-the-badge&logo=github)](sections/lists.md) |
+| [![Documentation](https://img.shields.io/badge/Documentation-0D47A1?style=for-the-badge&logo=github)](sections/documentation.md) | [![Templates](https://img.shields.io/badge/Templates-0D47A1?style=for-the-badge&logo=github)](sections/templates.md) |
+| [![Experiments](https://img.shields.io/badge/Experiments-0D47A1?style=for-the-badge&logo=github)](sections/experiments.md) | [![Streamlit Apps](https://img.shields.io/badge/Streamlit_Apps-0D47A1?style=for-the-badge&logo=github)](sections/streamlit-apps.md) |
+| [![Forks](https://img.shields.io/badge/Forks-0D47A1?style=for-the-badge&logo=github)](sections/forks.md) | [![Data](https://img.shields.io/badge/Data-0D47A1?style=for-the-badge&logo=github)](sections/data.md) |
 
 ### 3. Category Index
 The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:
