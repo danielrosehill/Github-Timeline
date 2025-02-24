@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-02-24 17:49:22*
+*Last updated: 2025-02-24 17:51:31*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -25,7 +25,7 @@ Browse repositories by their type:
 | [![Documentation](https://img.shields.io/badge/Documentation-0D47A1?style=for-the-badge&logo=github)](sections/documentation.md) | [![Templates](https://img.shields.io/badge/Templates-0D47A1?style=for-the-badge&logo=github)](sections/templates.md) |
 | [![Experiments](https://img.shields.io/badge/Experiments-0D47A1?style=for-the-badge&logo=github)](sections/experiments.md) | [![Streamlit Apps](https://img.shields.io/badge/Streamlit_Apps-0D47A1?style=for-the-badge&logo=github)](sections/streamlit-apps.md) |
 | [![Forks](https://img.shields.io/badge/Forks-0D47A1?style=for-the-badge&logo=github)](sections/forks.md) | [![Data](https://img.shields.io/badge/Data-0D47A1?style=for-the-badge&logo=github)](sections/data.md) |
-| [![Ideas](https://img.shields.io/badge/Ideas-0D47A1?style=for-the-badge&logo=github)](sections/ideas.md) |  |
+| [![Ideas](https://img.shields.io/badge/Ideas-0D47A1?style=for-the-badge&logo=github)](sections/ideas.md) | [![Wrappers](https://img.shields.io/badge/Wrappers-0D47A1?style=for-the-badge&logo=github)](sections/wrappers.md) |
 
 ### 3. Category Index
 The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:
@@ -39,7 +39,7 @@ The category index organizes repositories by their primary function or topic. Ea
 | [![Emissions](https://img.shields.io/badge/Emissions-2ea44f?style=for-the-badge&logo=github)](sections/emissions.md) | [![Scaffolders](https://img.shields.io/badge/Scaffolders-2ea44f?style=for-the-badge&logo=github)](sections/scaffolders.md) |
 | [![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md) | [![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md) |
 | [![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md) | [![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md) |
-| [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) | [![Wrappers](https://img.shields.io/badge/Wrappers-2ea44f?style=for-the-badge&logo=github)](sections/wrappers.md) |
+| [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) |  |
 
 ## Data Access & API
 
